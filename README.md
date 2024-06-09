@@ -8,7 +8,7 @@
 
 [Mi repositorio de prueba](https://github.com/NicoletaJ/intento.git) Este es mi primer repositorio
 
-#Mis estadísitcas de GitHub
+# Mis estadísitcas de GitHub
 
 
 [![Hua's github stats](https://github-readme-stats.vercel.app/api?username=NicoletaJ&show_icons=true&theme=dar)](https://github.com/NicoletaJ/github-readme-stats)
