@@ -19,7 +19,7 @@
 [![Hua's github stats](https://github-readme-stats.vercel.app/api?username=NicoletaJ&show_icons=true&theme=dar)](https://github.com/NicoletaJ/github-readme-stats)
 
 
-### Contacto: // Contact:
+### Contacto // Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nicoleta_Josanu-blue?style=flat-square&logo=Linkedin&logoColor=whitelink=https://www.linkedin.com/in/nicoletajosanu/)](https://www.linkedin.com/in/nicoletajosanu/)
 [![Gmail Badge](https://img.shields.io/badge/-nicoletajosanu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicoletajosanu@gmail.com)](mailto:nicoletajosanu@gmail.com)
