@@ -1,7 +1,9 @@
 # ¡Hola! Bienvenidos/as a mi perfil de GitHub.
-# Hello! Welcome to my GitHub profile.
 
 ### Soy Nicoleta Josanu, una apasionada estudiante de desarrollo front-end. Aquí podrás encontrar todo el código que he ido aprendiendo y los proyectos en los que estoy trabajando. Espero que disfrutes explorando mis repositorios tanto como yo he disfrutado creándolos.
+
+# Hello! Welcome to my GitHub profile.
+
 ### I'm Nicoleta Josanu, a passionate front-end development student. Here you will find all the code I've been learning and the projects I'm working on. I hope you enjoy exploring my repositories as much as I enjoyed creating them.
 
 
