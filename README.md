@@ -6,7 +6,7 @@
 
 ## Mis repositorios
 
-[Mi repositorio de prueba](https://github.com/NicoletaJ/intento.git) Este es mi primer repositorio
+[Mi repositorio 1]([https://github.com/NicoletaJ/intento.git](https://github.com/NicoletaJ/RefugioConejosHTMLCSSResponsive.git)) Este es mi primer repositorio hecho con HTML5 y CSS3 Responsive
 
 # Mis estadísitcas de GitHub
 
