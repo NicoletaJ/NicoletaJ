@@ -10,7 +10,7 @@
 ## Mis repositorios
 ## My repositories
 
-[Repositorio Refugio de Conejos](https://github.com/NicoletaJ/RefugioConejosHTMLCSSResponsive.git) Este es mi primer repositorio hecho con HTML5 y CSS3 Responsive
+[Repositorio Refugio de Conejos](https://github.com/NicoletaJ/RefugioConejosHTMLCSSResponsive.git) Este es mi primer repositorio hecho con HTML5 y CSS3 Responsive. // This is my first repository made with HTML5 and CSS3 Responsive.
 
 ## Mis estadísitcas de GitHub
 ## My GitHub stats
