@@ -8,7 +8,7 @@
 
 [Repositorio Refugio de Conejos](https://github.com/NicoletaJ/RefugioConejosHTMLCSSResponsive.git) Este es mi primer repositorio hecho con HTML5 y CSS3 Responsive
 
-# Mis estadísitcas de GitHub
+## Mis estadísitcas de GitHub
 
 
 [![Hua's github stats](https://github-readme-stats.vercel.app/api?username=NicoletaJ&show_icons=true&theme=dar)](https://github.com/NicoletaJ/github-readme-stats)
